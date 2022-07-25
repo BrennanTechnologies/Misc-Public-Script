@@ -1,6 +1,6 @@
 using System;
 
-class Kodify_Example
+class Sentinel_Loop
 {
     static void Main()
     {
